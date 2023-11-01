@@ -625,6 +625,11 @@ footer {
         display: none;
     }
 
+    .flex-logo li {
+    font-size: 20px;
+    margin: auto 5px;
+}
+
     /* ======= Home ======= */
     .logo-title {
         display: none;
